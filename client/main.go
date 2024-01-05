@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"log"
 
-	"harii/traindemo/pb"
+	//"traindemo/pb"
 
-	//pb "github.com/HARISHA-code/traindemo/pb"
+	pb "github.com/HARISHA-code/traindemo/pb"
 
 	"google.golang.org/grpc"
 )

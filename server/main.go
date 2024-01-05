@@ -6,9 +6,9 @@ import (
 	"log"
 	"net"
 
-	"traindemo/pb"
+	//"traindemo/pb"
 
-	//pb "github.com/HARISHA-code/traindemo/pb"
+	pb "github.com/HARISHA-code/traindemo/pb"
 
 	"github.com/golang/protobuf/ptypes"
 	"google.golang.org/grpc"

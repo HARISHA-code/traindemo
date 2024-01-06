@@ -14,4 +14,7 @@ protoc --go_out=. --go-grpc_out=.proto/ticket.proto
 Then i created the main.go files for server and the client directories.
 
 And run the code in the command prompt using  "go run main.go" commands for both server and the client.
+
+
+
 ![Screenshot (331)](https://github.com/HARISHA-code/traindemo/assets/70417383/f092e5be-d526-4cab-a642-06496618ebfc)

@@ -17,4 +17,5 @@ And run the code in the command prompt using  "go run main.go" commands for both
 
 
 
-![Screenshot (331)](https://github.com/HARISHA-code/traindemo/assets/70417383/f092e5be-d526-4cab-a642-06496618ebfc)
+![image](https://github.com/HARISHA-code/traindemo/assets/70417383/d4216b4e-d94a-46c5-b8e4-11423f601d1f)
+
